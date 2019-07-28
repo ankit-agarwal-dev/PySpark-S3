@@ -1,12 +1,12 @@
 # PySpark Tutorial
 
-Pyspark Tutorial is a script that explains in simple steps about various ETL operations after reading data from AWS S3 and wirting data back into AWS S3 object store. This tutorial also briefly explains about using SQL in Pyspark.
+Pyspark Tutorial is a script that explains in simple steps about few analytical operations after reading data from AWS S3 and writing data back into AWS S3 object store. This tutorial also briefly explains about using SQL in Pyspark.
 Following concepts have been covered in this tutorial
 * Creation of spark session
 * Reading data form AWS S3 bucket
 * Creating virtual tables in PySpark
 * Joining virtual tables in PySpark for fetching values
-* Retrieving various date related values from timestamp based integer values
+* Retrieving various date related values from timestamp based EPOCH
 * Writing data into AWS S3 bucket
      
 ## Installation
@@ -47,4 +47,4 @@ Configuration files for AWS secret key. Please note that this has been intention
 Any suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.   
 
 ## License
-Applied
+This is a public data and feel free to use it as necessary.
